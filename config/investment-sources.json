@@ -1,0 +1,279 @@
+{
+  "podcasts": [
+    {
+      "name": "Latent Space",
+      "rssUrl": "https://pod2txt.vercel.app/api/feed?url=https://api.substack.com/feed/podcast/1084089.rss",
+      "url": "https://www.youtube.com/@LatentSpacePod"
+    },
+    {
+      "name": "Training Data",
+      "rssUrl": "https://feeds.megaphone.fm/trainingdata",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+    },
+    {
+      "name": "No Priors",
+      "rssUrl": "https://feeds.megaphone.fm/nopriors",
+      "url": "https://www.youtube.com/@NoPriorsPodcast"
+    },
+    {
+      "name": "Unsupervised Learning",
+      "rssUrl": "https://feeds.simplecast.com/dOSE_bdP",
+      "url": "https://www.youtube.com/@RedpointAI"
+    },
+    {
+      "name": "The MAD Podcast with Matt Turck",
+      "rssUrl": "https://anchor.fm/s/f2ee4948/podcast/rss",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos"
+    },
+    {
+      "name": "AI & I by Every",
+      "rssUrl": "https://anchor.fm/s/ed1f5584/podcast/rss",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+    }
+  ],
+  "blogs": [
+    {
+      "name": "Anthropic Engineering",
+      "type": "scrape",
+      "indexUrl": "https://www.anthropic.com/engineering",
+      "articleBaseUrl": "https://www.anthropic.com/engineering/",
+      "fetchMethod": "http"
+    },
+    {
+      "name": "Claude Blog",
+      "type": "scrape",
+      "indexUrl": "https://claude.com/blog",
+      "articleBaseUrl": "https://claude.com/blog/",
+      "fetchMethod": "http"
+    }
+  ],
+  "x_accounts": [
+    {
+      "name": "Marc Andreessen",
+      "handle": "pmarca"
+    },
+    {
+      "name": "Ben Horowitz",
+      "handle": "bhorowitz"
+    },
+    {
+      "name": "Martin Casado",
+      "handle": "martin_casado"
+    },
+    {
+      "name": "Andrew Chen",
+      "handle": "andrewchen"
+    },
+    {
+      "name": "Justine Moore",
+      "handle": "venturetwins"
+    },
+    {
+      "name": "Anish Acharya",
+      "handle": "illscience"
+    },
+    {
+      "name": "Paul Graham",
+      "handle": "paulg"
+    },
+    {
+      "name": "Garry Tan",
+      "handle": "garrytan"
+    },
+    {
+      "name": "Michael Seibel",
+      "handle": "mwseibel"
+    },
+    {
+      "name": "Dalton Caldwell",
+      "handle": "daltonc"
+    }    ,
+    {
+      "name": "Sonya Huang",
+      "handle": "sonyatweetybird"
+    },
+    {
+      "name": "Pat Grady",
+      "handle": "patgrady"
+    },
+    {
+      "name": "Bill Gurley",
+      "handle": "bgurley"
+    },
+    {
+      "name": "Sarah Tavel",
+      "handle": "sarahtavel"
+    },
+    {
+      "name": "Elad Gil",
+      "handle": "eladgil"
+    },
+    {
+      "name": "Josh Wolfe",
+      "handle": "wolfejosh"
+    },
+    {
+      "name": "Brad Feld",
+      "handle": "bfeld"
+    },
+    {
+      "name": "Harry Stebbings",
+      "handle": "HarryStebbings"
+    },
+    {
+      "name": "Niko Bonatsos",
+      "handle": "bonatsos"
+    },
+    {
+      "name": "Tomasz Tunguz",
+      "handle": "ttunguz"
+    },
+    {
+      "name": "Leo Polovets",
+      "handle": "lpolovets"
+    },
+    {
+      "name": "Sam Altman",
+      "handle": "sama"
+    },
+    {
+      "name": "Greg Brockman",
+      "handle": "gdb"
+    },
+    {
+      "name": "Dario Amodei",
+      "handle": "DarioAmodei"
+    },
+    {
+      "name": "Daniela Amodei",
+      "handle": "daniela_amodei"
+    },
+    {
+      "name": "Aravind Srinivas",
+      "handle": "AravSrinivas"
+    },
+    {
+      "name": "Clem Delangue",
+      "handle": "ClemDelangue"
+    },
+    {
+      "name": "Alexandr Wang",
+      "handle": "alexandr_wang"
+    },
+    {
+      "name": "Amjad Masad",
+      "handle": "amasad"
+    },
+    {
+      "name": "Michael Truell",
+      "handle": "mtruell"
+    },
+    {
+      "name": "Arthur Mensch",
+      "handle": "arthurmensch"
+    }    ,
+    {
+      "name": "Andrej Karpathy",
+      "handle": "karpathy"
+    },
+    {
+      "name": "Yann LeCun",
+      "handle": "ylecun"
+    },
+    {
+      "name": "Fei-Fei Li",
+      "handle": "drfeifei"
+    },
+    {
+      "name": "Jim Fan",
+      "handle": "DrJimFan"
+    },
+    {
+      "name": "François Chollet",
+      "handle": "fchollet"
+    },
+    {
+      "name": "Ethan Mollick",
+      "handle": "emollick"
+    },
+    {
+      "name": "Simon Willison",
+      "handle": "simonw"
+    },
+    {
+      "name": "Demis Hassabis",
+      "handle": "demishassabis"
+    },
+    {
+      "name": "Jeff Dean",
+      "handle": "JeffDean"
+    },
+    {
+      "name": "Swyx",
+      "handle": "swyx"
+    },
+    {
+      "name": "Peter Yang",
+      "handle": "petergyang"
+    },
+    {
+      "name": "Alex Albert",
+      "handle": "alexalbert__"
+    },
+    {
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux"
+    },
+    {
+      "name": "Boris Cherny",
+      "handle": "bcherny"
+    },
+    {
+      "name": "Josh Woodward",
+      "handle": "joshwoodward"
+    },
+    {
+      "name": "Peter Steinberger",
+      "handle": "steipete"
+    },
+    {
+      "name": "a16z",
+      "handle": "a16z"
+    },
+    {
+      "name": "Sequoia Capital",
+      "handle": "sequoia"
+    },
+    {
+      "name": "Y Combinator",
+      "handle": "ycombinator"
+    },
+    {
+      "name": "Benchmark",
+      "handle": "benchmark"
+    },
+    {
+      "name": "Greylock",
+      "handle": "greylockvc"
+    },
+    {
+      "name": "Lightspeed Venture Partners",
+      "handle": "lightspeedvp"
+    },
+    {
+      "name": "Founders Fund",
+      "handle": "foundersfund"
+    },
+    {
+      "name": "Lux Capital",
+      "handle": "luxcapital"
+    },
+    {
+      "name": "General Catalyst",
+      "handle": "generalcatalyst"
+    },
+    {
+      "name": "Accel",
+      "handle": "accel"
+    }]
+}

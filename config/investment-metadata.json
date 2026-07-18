@@ -1,0 +1,140 @@
+{
+  "pmarca": {
+    "type": "VC",
+    "organization": "Andreessen Horowitz",
+    "role": "Co-founder",
+    "focus": [
+      "AI",
+      "Software",
+      "Venture Capital"
+    ]
+  },
+  "bhorowitz": {
+    "type": "VC",
+    "organization": "Andreessen Horowitz",
+    "role": "Co-founder",
+    "focus": [
+      "Enterprise",
+      "AI",
+      "Software"
+    ]
+  },
+  "martin_casado": {
+    "type": "VC",
+    "organization": "Andreessen Horowitz",
+    "role": "General Partner",
+    "focus": [
+      "AI Infrastructure",
+      "Cloud",
+      "Enterprise"
+    ]
+  },
+  "venturetwins": {
+    "type": "VC",
+    "organization": "Andreessen Horowitz",
+    "role": "Partner",
+    "focus": [
+      "Consumer AI",
+      "AI Applications"
+    ]
+  },
+  "paulg": {
+    "type": "Founder",
+    "organization": "Y Combinator",
+    "role": "Co-founder",
+    "focus": [
+      "Startups",
+      "Technology",
+      "Founders"
+    ]
+  },
+  "garrytan": {
+    "type": "VC",
+    "organization": "Y Combinator",
+    "role": "President & CEO",
+    "focus": [
+      "Early-stage Startups",
+      "AI"
+    ]
+  },
+  "mwseibel": {
+    "type": "VC",
+    "organization": "Y Combinator",
+    "role": "Managing Director",
+    "focus": [
+      "Startup Incubation",
+      "AI"
+    ]
+  },
+  "bgurley": {
+    "type": "VC",
+    "organization": "Benchmark",
+    "role": "General Partner",
+    "focus": [
+      "Technology",
+      "Market Structure"
+    ]
+  },
+  "sama": {
+    "type": "Founder",
+    "organization": "OpenAI",
+    "role": "CEO",
+    "focus": [
+      "Foundation Models",
+      "AGI"
+    ]
+  },
+  "gdb": {
+    "type": "Founder",
+    "organization": "OpenAI",
+    "role": "President",
+    "focus": [
+      "Foundation Models"
+    ]
+  },
+  "AravSrinivas": {
+    "type": "Founder",
+    "organization": "Perplexity",
+    "role": "CEO",
+    "focus": [
+      "AI Search",
+      "AI Products"
+    ]
+  },
+  "karpathy": {
+    "type": "Researcher",
+    "organization": "Eureka Labs",
+    "role": "Founder",
+    "focus": [
+      "LLMs",
+      "AI Education"
+    ]
+  },
+  "drfeifei": {
+    "type": "Researcher",
+    "organization": "Stanford University",
+    "role": "Professor",
+    "focus": [
+      "Computer Vision",
+      "AI"
+    ]
+  },
+  "DrJimFan": {
+    "type": "Researcher",
+    "organization": "NVIDIA",
+    "role": "Senior Research Manager",
+    "focus": [
+      "Embodied AI",
+      "Robotics"
+    ]
+  },
+  "emollick": {
+    "type": "Researcher",
+    "organization": "University of Pennsylvania",
+    "role": "Professor",
+    "focus": [
+      "AI Adoption",
+      "Productivity"
+    ]
+  }
+}

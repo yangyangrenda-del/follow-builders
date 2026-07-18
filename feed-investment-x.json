@@ -1,0 +1,382 @@
+{
+  "generatedAt": "2026-07-18T04:29:13.276Z",
+  "lookbackHours": 24,
+  "x": [
+    {
+      "source": "x",
+      "name": "Justine Moore",
+      "handle": "venturetwins",
+      "type": "VC",
+      "organization": "Andreessen Horowitz",
+      "role": "Partner",
+      "focus": [
+        "Consumer AI",
+        "AI Applications"
+      ],
+      "bio": "Partner @a16z AI 🤖 and twin to @omooretweets | Investor in @elevenlabs, @bfl_ml, @hedra_labs, @krea_ai, @heyglif, @ShizukuAILabs, @wabi, @TownAI",
+      "tweets": [
+        {
+          "id": "2078318449080881588",
+          "text": "Fastest aura loss I’ve seen in a long time… https://t.co/UqOoJMrJWm",
+          "createdAt": "2026-07-18T03:18:26.000Z",
+          "url": "https://x.com/venturetwins/status/2078318449080881588",
+          "likes": 283,
+          "retweets": 10,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2078302415804379218"
+        },
+        {
+          "id": "2078169574340706600",
+          "text": "We're rapidly approaching the point where you can livestream as any character you want 🤯\n\nTested out the new Lucy 2.5 model from @DecartAI - latency and character consistency are impressive.\n\nIt can also edit things in your surroundings or restyle the scene.\n\nHow it works 👇 https://t.co/xe2awCd5en",
+          "createdAt": "2026-07-17T17:26:51.000Z",
+          "url": "https://x.com/venturetwins/status/2078169574340706600",
+          "likes": 200,
+          "retweets": 14,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anish Acharya",
+      "handle": "illscience",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "🦞AI Apps investing @ A16Z; A1111; Boards of Krea, Deel, Clutch, Titan, Arc Boats, Untitled, Happy Robot + more; If you’re not at the table, you’re on the menu",
+      "tweets": [
+        {
+          "id": "2078213496211419263",
+          "text": "Here is an empirical validation of the two most interesting K3 claims:\n\n1 - That it's less \"intelligence-dense\" thus expensive on a per task basis even if cheap on a per token basis\n2 - That it's SOTA at creative writing and critical thinking\n\nThis eval set validated the \"wastrel\" (token-inefficient) nature of K3 that @GavinSBaker noted and, to my eye, that it's excellent at critical thinking / working with prose.\n\nThe background: I've been working on a project that unbundles my X bookmarks into opinions/claims and then connects ideas across posts, so I used it as a testbed: 10 frontier models each judged the same 40 claims against a ~3,000-claim knowledge base, examining per-task cost (one claim judged end-to-end) and quality of critical thinking (how credible + complete the connections were).\n\nAnyways you can see the evals for yourself at the link below.",
+          "createdAt": "2026-07-17T20:21:23.000Z",
+          "url": "https://x.com/illscience/status/2078213496211419263",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2078110934740980193"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sonya Huang",
+      "handle": "sonyatweetybird",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "funding big computer @sequoia",
+      "tweets": [
+        {
+          "id": "2078177492473680049",
+          "text": "In addition to generous inference credits and office hours from fal and our sponsoring model labs, participants will also get early access to filmmaking tool @previewio which is still in alpha! cc @fejes713 https://t.co/d69lk1bY3P",
+          "createdAt": "2026-07-17T17:58:19.000Z",
+          "url": "https://x.com/sonyatweetybird/status/2078177492473680049",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078177490494009659",
+          "text": "We have an awesome line-up of talks, judges, office hours and workshops planned for the weekend including\n+ video model labs (@GoogleDeepMind @SpaceXAI)\n+ AI-native studios (@WonderStudiosX)\n+ developer/creative tools (@fal @previewio) https://t.co/t0nC57G9WH",
+          "createdAt": "2026-07-17T17:58:19.000Z",
+          "url": "https://x.com/sonyatweetybird/status/2078177490494009659",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Wolfe",
+      "handle": "wolfejosh",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "co-founder + partner @ Lux Capital | Trustee @SfiScience Santa Fe Inst | Founding Chair @CiPrep (Brooklyn) | Co-Founder of Carson, Quinn & Bodhi w/ @ltwolfe",
+      "tweets": [
+        {
+          "id": "2078193741744030037",
+          "text": "surprising \n\nI thought the UK would have rewarded terror acts by recognized IRGC as its own state. https://t.co/ps78LFLf01",
+          "createdAt": "2026-07-17T19:02:53.000Z",
+          "url": "https://x.com/wolfejosh/status/2078193741744030037",
+          "likes": 21,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2078060163949338982"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "type": "Founder",
+      "organization": "OpenAI",
+      "role": "President",
+      "focus": [
+        "Foundation Models"
+      ],
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "2078004399675503093",
+          "text": "team is responding to feedback and iterating quickly. we ❤️ our users, thank you all! https://t.co/xMqOPiptuK",
+          "createdAt": "2026-07-17T06:30:30.000Z",
+          "url": "https://x.com/gdb/status/2078004399675503093",
+          "likes": 1087,
+          "retweets": 26,
+          "replies": 126,
+          "isQuote": true,
+          "quotedTweetId": "2077928427936710901"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "type": "Researcher",
+      "organization": "University of Pennsylvania",
+      "role": "Professor",
+      "focus": [
+        "AI Adoption",
+        "Productivity"
+      ],
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech\nBook: https://t.co/CSmipbJ2jV\nSubstack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "2078318882473796029",
+          "text": "Computer use with Codex is really impressive: \"I've never used Blender, download and install it using your computer control and then use it to make an otter in 3D and turn it into a little animation\"\n\nI only had to click once to give Windows permission to install Blender. Neat! https://t.co/LJdrHm5hrv",
+          "createdAt": "2026-07-18T03:20:09.000Z",
+          "url": "https://x.com/emollick/status/2078318882473796029",
+          "likes": 94,
+          "retweets": 5,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078169042687320449",
+          "text": "It should be the golden age of porting. Maybe iPad will finally get some good games. https://t.co/YlBFzrFc7y",
+          "createdAt": "2026-07-17T17:24:44.000Z",
+          "url": "https://x.com/emollick/status/2078169042687320449",
+          "likes": 950,
+          "retweets": 35,
+          "replies": 19,
+          "isQuote": true,
+          "quotedTweetId": "2078087941331546431"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2078004977294032991",
+          "text": "HOLY FUCKING SHIT the react avengers have assembled https://t.co/8hqGSTOM16",
+          "createdAt": "2026-07-17T06:32:48.000Z",
+          "url": "https://x.com/swyx/status/2078004977294032991",
+          "likes": 268,
+          "retweets": 2,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2077870043833229692"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2078167882467553487",
+          "text": "Here's the equipment I bought (all in around $1.5K):\n\n@RogueFitness HR2 half rack: https://t.co/NZpunZqcgR\n\nRogue Echo bumper plates: \nhttps://t.co/7zDiTPJ4d1\n\nAlso I highly recommend @EquipFoods beef protein (especially if you're lactose intolerant like me). The chocolate protein is delicious: https://t.co/ILri1peVXX",
+          "createdAt": "2026-07-17T17:20:08.000Z",
+          "url": "https://x.com/petergyang/status/2078167882467553487",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078137361230450990",
+          "text": "If you are over 40 and have the room for it this is genuinely one of the best purchases you can make for mental and physical health. https://t.co/HJJL8ykBUa",
+          "createdAt": "2026-07-17T15:18:51.000Z",
+          "url": "https://x.com/petergyang/status/2078137361230450990",
+          "likes": 222,
+          "retweets": 6,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thibault Sottiaux",
+      "handle": "thsottiaux",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "2078321266524881065",
+          "text": "And transitively might also have reset other rate limits out there. Let's see. You're welcome if so.",
+          "createdAt": "2026-07-18T03:29:37.000Z",
+          "url": "https://x.com/thsottiaux/status/2078321266524881065",
+          "likes": 763,
+          "retweets": 15,
+          "replies": 92,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078320950488297917",
+          "text": "Oops... I did it again. \n\nEnjoy reset usage limits for all paid users for Codex and ChatGPT Work. Super grateful for an incredible team who is iterating at lightspeed and keeping the infra up as we scale faster than ever.\n\nEnjoy the weekend! https://t.co/WIuS07doKA https://t.co/3NwNqHG7TV",
+          "createdAt": "2026-07-18T03:28:22.000Z",
+          "url": "https://x.com/thsottiaux/status/2078320950488297917",
+          "likes": 5256,
+          "retweets": 399,
+          "replies": 1272,
+          "isQuote": true,
+          "quotedTweetId": "2078310751878647932"
+        },
+        {
+          "id": "2078310751878647932",
+          "text": "GPT-5.6 Sol confirmed to be an extremely good model https://t.co/nZaAnFhsPX",
+          "createdAt": "2026-07-18T02:47:51.000Z",
+          "url": "https://x.com/thsottiaux/status/2078310751878647932",
+          "likes": 6398,
+          "retweets": 282,
+          "replies": 647,
+          "isQuote": true,
+          "quotedTweetId": "2078302415804379218"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2078318731785359634",
+          "text": "It's both amazing and painful to watch codex use browser + computer use to open Chrome, go to my PR, tap on comment and wrangle with the macOS picker - all TO UPLOAD AN IMAGE. GitHub has no API doesn't stop anyone.\n\nI let my codex run in VMs so they don't steal app focus. https://t.co/Dd5KzNs6E5",
+          "createdAt": "2026-07-18T03:19:33.000Z",
+          "url": "https://x.com/steipete/status/2078318731785359634",
+          "likes": 188,
+          "retweets": 6,
+          "replies": 30,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078252386376929706",
+          "text": "In the category: \"don't trust benchmarks\". For my use case of issue/code review, Terra high *by far* delivers better results than Sol low. https://t.co/WOGY16aU04",
+          "createdAt": "2026-07-17T22:55:55.000Z",
+          "url": "https://x.com/steipete/status/2078252386376929706",
+          "likes": 227,
+          "retweets": 11,
+          "replies": 31,
+          "isQuote": true,
+          "quotedTweetId": "2078245907997577601"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "a16z",
+      "handle": "a16z",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "It's time to build.\n\nhttps://t.co/A9eTFq6Xbx\n\nPosts are not investment advice or an advertisement for investment services. See https://t.co/nX2FtaLE06.",
+      "tweets": [
+        {
+          "id": "2078132887153721762",
+          "text": "A16Z American Dynamism presents:\n\nUlysses. Mariana Minerals. Radiant.\n\nComing soon. https://t.co/OUkRXEz7bB",
+          "createdAt": "2026-07-17T15:01:04.000Z",
+          "url": "https://x.com/a16z/status/2078132887153721762",
+          "likes": 402,
+          "retweets": 29,
+          "replies": 26,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2078120322805723444",
+          "text": "The biggest AI adopters are increasing entry-level hiring.\n\nCharts of the Week: https://t.co/b6vvV3acMy https://t.co/QgyozXTkLl",
+          "createdAt": "2026-07-17T14:11:09.000Z",
+          "url": "https://x.com/a16z/status/2078120322805723444",
+          "likes": 458,
+          "retweets": 54,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Y Combinator",
+      "handle": "ycombinator",
+      "type": "",
+      "organization": "",
+      "role": "",
+      "focus": [],
+      "bio": "We help founders make something people want. Subscribe to our newsletter: https://t.co/sjqjxxBeLc",
+      "tweets": [
+        {
+          "id": "2078311046524383695",
+          "text": "https://t.co/gNl84ElBrq https://t.co/tvIHMrhVdI",
+          "createdAt": "2026-07-18T02:49:01.000Z",
+          "url": "https://x.com/ycombinator/status/2078311046524383695",
+          "likes": 210,
+          "retweets": 13,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "xBuilders": 12,
+    "totalTweets": 20
+  }
+}
