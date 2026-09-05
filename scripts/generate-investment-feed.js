@@ -16,7 +16,14 @@ import "dotenv/config";
 import { readFile, writeFile } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
+import { ProxyAgent, setGlobalDispatcher } from "undici";
+const proxy = process.env.HTTPS_PROXY || process.env.HTTP_PROXY;
 
+if (proxy) {
+  setGlobalDispatcher(
+    new ProxyAgent(proxy)
+  );
+}
 // -- Constants ---------------------------------------------------------------
 
 const POD2TXT_BASE = "https://pod2txt.vercel.app/api";

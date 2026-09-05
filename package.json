@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.112.3",
+    "undici": "^6.27.0"
+  }
+}

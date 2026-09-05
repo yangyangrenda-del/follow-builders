@@ -26,11 +26,16 @@ import { homedir } from 'os';
 const USER_DIR = join(homedir(), '.follow-builders');
 const CONFIG_PATH = join(USER_DIR, 'config.json');
 
-const FEED_X_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-investment-x.json';
+const FEED_X_PATH = join(
+  process.cwd(),
+  "feed-investment-x.json"
+);
 const FEED_PODCASTS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-podcasts.json';
 const FEED_BLOGS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-blogs.json';
+const FEED_PODCASTS_PATH = join(process.cwd(), "feed-podcasts.json");
+const FEED_BLOGS_PATH = join(process.cwd(), "feed-blogs.json");
 
-const PROMPTS_BASE = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/prompts';
+const PROMPTS_BASE = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/prompts-investment';
 const PROMPT_FILES = [
   'summarize-podcast.md',
   'summarize-tweets.md',
@@ -51,6 +56,15 @@ async function fetchText(url) {
   const res = await fetch(url);
   if (!res.ok) return null;
   return res.text();
+}
+
+// Read a feed from a local file if present (freshly generated), otherwise
+// fall back to fetching from GitHub (previously committed by Actions).
+async function readLocalOrFetch(localPath, remoteUrl) {
+  if (existsSync(localPath)) {
+    return JSON.parse(await readFile(localPath, "utf-8"));
+  }
+  return fetchJSON(remoteUrl);
 }
 
 // -- Main --------------------------------------------------------------------
@@ -74,9 +88,9 @@ async function main() {
 
   // 2. Fetch all three feeds
   const [feedX, feedPodcasts, feedBlogs] = await Promise.all([
-    fetchJSON(FEED_X_URL),
-    fetchJSON(FEED_PODCASTS_URL),
-    fetchJSON(FEED_BLOGS_URL)
+    readFile(FEED_X_PATH, "utf-8").then(JSON.parse),
+    readLocalOrFetch(FEED_PODCASTS_PATH, FEED_PODCASTS_URL),
+    readLocalOrFetch(FEED_BLOGS_PATH, FEED_BLOGS_URL)
   ]);
 
   if (!feedX) errors.push('Could not fetch tweet feed');
